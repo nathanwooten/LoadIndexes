@@ -1,6 +1,6 @@
 <?php
 
-namespace LoadIndexes;
+namespace nathanwooten\LoadIndexes;
 
 function load_indexes( $lDir, $loadMe = [ 'Filesystem' ] )
 {
